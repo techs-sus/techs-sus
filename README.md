@@ -1,13 +1,15 @@
-who am i:
+# who are you?
+- i am a coder who is ok at coding
 
-i am a programmer who is ok at coding
+## what I do best is..
+- [javascript](https://www.javascript.com/)/[typescript](https://www.typescriptlang.org/)
+- [luau](https://luau-lang.org/)
 
-what do i do:
+## Some of the tools I use are..
+- [Rojo](https://rojo.space/)
+- [Visual Studio Code](https://code.visualstudio.com/download/)
+- [Gitpod](https://gitpod.io/)
 
-i code thats literally it
-
-info about me:
-
-i love coding
-i am self-taught
-i use vs code
+## Some of the more major things ive been working on..
+- gameboy emulator
+- merging roblox servers (yes im serious)
