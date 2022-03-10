@@ -1,15 +1,18 @@
 # who are you?
 - i am a coder who is ok at coding
+- maybe im a child
+- jk
 
-## what I do best is..
-- [javascript](https://www.javascript.com/)/[typescript](https://www.typescriptlang.org/)
-- [luau](https://luau-lang.org/)
+## i code some languages
+- [javascript](https://www.javascript.com/) / [typescript](https://www.typescriptlang.org/) (Pretty good imo)
+- [luau](https://luau-lang.org/) (Decent at)
 
-## Some of the tools I use are..
+## i use sum sick toolz
 - [Rojo](https://rojo.space/)
 - [Visual Studio Code](https://code.visualstudio.com/download/)
 - [Gitpod](https://gitpod.io/)
+- [Vite](https://vitejs.dev/)
 
-## Some of the more major things ive been working on..
+## things i made
 - gameboy emulator
-- merging roblox servers (yes im serious)
+- airo, merges void servers.
