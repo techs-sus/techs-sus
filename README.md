@@ -1,5 +1,7 @@
 # who are you?
 - i am a coder who is ok at coding
+- usually my code likes to commit die and say attempt to index nil with number or something
+- i like luau
 - maybe im a child
 - jk
 
@@ -16,3 +18,8 @@
 ## things i made
 - gameboy emulator
 - airo, merges void servers.
+
+## stats
+
+[![tech-sus's GitHub stats](https://github-readme-stats.vercel.app/api?username=techs-sus&icons=true&theme=gruvbox)](https://github.com/techs-sus)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techs-sus&theme=gruvbox)](https://github.com/techs-sus)  
