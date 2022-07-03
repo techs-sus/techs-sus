@@ -21,5 +21,5 @@
 
 ## stats
 
-[![tech-sus's GitHub stats](https://github-readme-stats.vercel.app/api?username=techs-sus&icons=true&theme=gruvbox)](https://github.com/techs-sus)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techs-sus&theme=gruvbox)](https://github.com/techs-sus)  
+[![tech-sus's GitHub stats](https://github-readme-stats.vercel.app/api?username=techs-sus&show_icons=true&theme=radical)](https://github.com/techs-sus)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techs-sus&theme=radical)](https://github.com/techs-sus)  
