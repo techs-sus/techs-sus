@@ -1,13 +1,9 @@
 # who are you?
 - i am a coder who is ok at coding
-- usually my code likes to commit die and say attempt to index nil with number or something
-- i like luau
-- maybe im a child
-- jk
 
 ## i code some languages
-- [javascript](https://www.javascript.com/) / [typescript](https://www.typescriptlang.org/) (Pretty good imo)
-- [luau](https://luau-lang.org/) (Decent at)
+- [javascript](https://www.javascript.com/) / [typescript](https://www.typescriptlang.org/) (Secendary side skill)
+- [luau](https://luau-lang.org/) (Main)
 
 ## i use sum sick toolz
 - [Rojo](https://rojo.space/)
