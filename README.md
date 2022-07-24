@@ -8,4 +8,4 @@
 ## social media stuff
 
 [![discord](https://img.shields.io/badge/techsyesreal%235007-blue?logo=discord&logoColor=white)](https://discord.com/)
-[![roblox](https://img.shields.io/badge/technology1111-red?logo=roblox&logoColor=white)](https://www.roblox.com/users/182695731/profile)
+[![roblox](https://img.shields.io/badge/technology1111-red?logo=roblox&logoColor=white)](https://www.roblox.com/users/167920527/profile)
