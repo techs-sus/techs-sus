@@ -3,11 +3,9 @@
 - I prefer he/him, but I don't really care (they/them is fine).
 
 [![tech-sus's GitHub stats](https://github-readme-stats.vercel.app/api?username=techs-sus&show_icons=true&theme=radical)](https://github.com/techs-sus)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techs-sus&theme=radical)](https://github.com/techs-sus)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techs-sus&theme=radical)](https://github.com/techs-sus)
 
-## social media stuff
-
-[![discord](https://img.shields.io/badge/techsyesreal%235007-blue?logo=discord&logoColor=white)](https://discord.com/)
-(you can verify its me by checking the connections)
+don't contact or try and friend me on discord
+I will decline.
 
 [![roblox](https://img.shields.io/badge/technology1111-red?logo=roblox&logoColor=white)](https://www.roblox.com/users/167920527/profile)
